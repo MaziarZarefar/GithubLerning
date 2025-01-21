@@ -1,38 +1,40 @@
-// import List from "./List.jsx";
-// import Button from "./Button.jsx";
-//import UserGreeting from "./UserGreeting.jsx";
-//import Button1 from "./Button1.jsx";
-// import PictureButton from "./PictureButton.jsx";
-// import Counter from "./Counter.jsx";
-// import MyComponent from "./MyComponent.jsx";
-// import ColorPicker from "./ColorPicker.jsx";
-// import CarComponent from "./CarComponent.jsx";
-// import FoodComponent from "./FoodComponent.jsx";
-// import CarComponent1 from "./CarComponent1.jsx";
-// import ToDoList from "./ToDoList.jsx";
-// import Student from "./Student.jsx";
-// import HWComponent from "./Components/HWComponent.jsx";
-// import DigitalClock from "./DigitalClock.jsx";
-// import ComponentA from "./ComponentsContext/ComponentA.jsx";
-// import MioComponent from "./MioComponent.jsx";
+ import List from "./List.jsx";
+ import Button from "./Button.jsx";
+import UserGreeting from "./UserGreeting.jsx";
+import Button1 from "./Button1.jsx";
+ import PictureButton from "./PictureButton.jsx";
+ import Counter from "./Counter.jsx";
+ import MyComponent from "./MyComponent.jsx";
+ import ColorPicker from "./ColorPicker.jsx";
+ import CarComponent from "./CarComponent.jsx";
+ import FoodComponent from "./FoodComponent.jsx";
+ import CarComponent1 from "./CarComponent1.jsx";
+ import ToDoList from "./ToDoList.jsx";
+ import Student from "./Student.jsx";
+ import HWComponent from "./Components/HWComponent.jsx";
+ import DigitalClock from "./DigitalClock.jsx";
+ import ComponentA from "./ComponentsContext/ComponentA.jsx";
+ import MioComponent from "./MioComponent.jsx";
 import StopWatch from "./StopWatch.jsx";
 function App() {
 
   return (
-    //<Button1/>
-    // <PictureButton/>
-    // <MyComponent/>
-    // <Counter/>
-    // <ColorPicker/>
-    // <CarComponent/>
-    // <FoodComponent/>
-    // <CarComponent1/>
-    // <ToDoList/>
-    // <HWComponent/>
-    // <DigitalClock/>
-    // <ComponentA />
-    // <MioComponent />
+    <>
+    <Button1/>
+     <PictureButton/>
+     <MyComponent/>
+     <Counter/>
+     <ColorPicker/>
+     <CarComponent/>
+     <FoodComponent/>
+     <CarComponent1/>
+     <ToDoList/>
+     <HWComponent/>
+     <DigitalClock/>
+      <ComponentA />
+     <MioComponent />
     <StopWatch />
+      </>
 
   );
 
